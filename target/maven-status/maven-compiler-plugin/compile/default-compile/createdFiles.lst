@@ -1,0 +1,9 @@
+me\cobrex\griefpreventionaddon\utilities\MessageHandler.class
+me\cobrex\griefpreventionaddon\utilities\ItemBuilder.class
+me\cobrex\griefpreventionaddon\ClaimBlockWithdrawCommand.class
+me\cobrex\griefpreventionaddon\config\AutoUpdateConfigLoader.class
+me\cobrex\griefpreventionaddon\GriefpreventionAddonCommand.class
+me\cobrex\griefpreventionaddon\ClaimblockManager.class
+me\cobrex\griefpreventionaddon\GriefPreventionAddon.class
+me\cobrex\griefpreventionaddon\config\Config.class
+me\cobrex\griefpreventionaddon\config\ConfigLoader.class
