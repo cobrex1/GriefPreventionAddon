@@ -1,0 +1,22 @@
+name: GriefpreventionAddon
+version: ${project.version}
+api-version: 1.13
+description: GriefpreventionAddon - Adds a griefprevention claimblock withdrawal option!
+author: Cobrex
+
+main: me.cobrex.griefpreventionaddon.GriefPreventionAddon
+depend:
+  - GriefPrevention
+  - NBTAPI
+commands:
+  cbwithdraw:
+    aliases: [ cbw,claimblockwithdraw ]
+    description: Allows withdrawal of claimblocks.
+    permission: griefPreventionAddon.withdraw
+    usage: /<command>
+  gpaddon:
+    description: Admin command for testing.
+    permission: griefPreventionAddon.admin
+    usage: /<command>
+
+permissions: { }

@@ -1,0 +1,18 @@
+debug: false
+debugToAdmins: false
+claimblock:
+  item:
+    material: "PAPER"
+    name: "&6&l%d &e&l&nClaim Blocks"
+    lore:
+      - "&6Amount: %s"
+      - "&7Right-Click to Redeem"
+  message:
+    number: "&cNot a valid number."
+    notenough: "&cYou don't have enough claim blocks."
+    withdrew: "&aYou have withdrawn %d claim blocks."
+    limit: "&cYou can't withdraw that many claim blocks."
+    deposit: "&a%d claim blocks has been added to your account."
+  limit:
+    min: 1
+    max: 10000
